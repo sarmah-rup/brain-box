@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "newsrush",
+  "private_key_id": "97d930b77c174036b0925201cddbe7898ab0d0e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUh8DEz7AkaAto\n2OVPv4aoYE8BUxkWAepXhtCwoR+idWqo7cV5DLiKDxbuFOADlGYOOy/EWhwDdnk0\nZsDILACSSD9mz9K7CQtkRZRcC3JYx5Ny3jjtaLpp+GRrh6LXgUvKHVY2IJ/OzPmn\nZZqn5RLuMWXDRlav+XNSoyNPgGyzuwuuH1UtZSLLHzXz4XAIXI8soP21IkRNGqXA\nhYBJuHYXTJ+WAM6stwErWtKVlwWNP5PZlamn6RbRhJCccbt77hqg+2qF7vqrK8a2\n87/p6lTo7tnrFuPE0CVL2TuqtIP7A6P8B4aiTDe3hnTyLOJyepA4s6OVfkLpi1fQ\ndDwVXgCvAgMBAAECggEABw5ll1zT55y8U3DvSbk9eP91lnQrvyZoh7TP3sVpHcVr\nOXLN6lZ1r0CQANVlmKJt/wDDdbzBW4x5h4SP188jyuq/woozRqCmv0YGIBME0WJf\nu8hM0ikQScg3wVA01y934Wm28CYfvpR7B3rhA+9szca+SIAtDNVDf6KV+T11nncp\nHECf8+lMmVgkFg50EkYPWsWwVebNdQNzLoD02Rj4Edb4qxn+Iy5iwz/6AFU1F+BM\nDPwXwci9FZz09qIwWTIIRHvsv4+DHN4nnIqdjS/HNTv+0WM4qk0YFJU0LFqdETG5\nhxG+zjG9+NZyYjHWJnbXHfy0DIb6P+6nBiymcnIwqQKBgQD8xyFZZ/Uz7QcO2BUC\ndAPfkmGC6YwAsD0I8u9i6VZBniQq3GItdzwFAxG7XdVHEF0FttlMMuQ7Ev+cSqhp\n5d98l5n3b3njj8oy7zAPDB3GyiD593lqXNP7Da+Sww+6UASsSxZRiWwKk5mGXVzR\n/ZTWy5hjbzRdCCneQjAQi1MhKQKBgQDXPUk7vxPwfG0kLemROZjuwSyPa74nNaX5\nqOvgl0Q4HpWW5QCwP3pnQJB551EZvbNrpGI6Atl7zedHgDq84BMUqegWVQ2bNaIc\nsWVAiBXyiQU8ZKaoHJAUcc1g3AVszc9u8cWbvolaTzsuG9cSMqL4cwulR6/kwvSg\nvhtXlriWFwKBgGk+Jz5oMAj8iNG/WY/56ZruATdWMXof5mmRa+XMrKMJSpmlxCKV\n4CFeE8Xk3WWHBJPae0Jkde26jT3vP4tHr/LZ07rXaPI77b2jJGk/bC5V/cDVLnIA\nUCnYmt8J48R4iFmLsbEk/ByzM1pkCL9NSujbP4k2xaBuQ7BL8mMQ/v1xAoGAM+Tx\n2DbcntnREq0DKGGDruTiUn3+rcNwjf4dSNwPtZwiIux5uwTDBUv6yXltA1DKhoRu\nrl/rgb8GKSYQg2NfFldUvrWo/yfyOwrGR8XHzN8eZQ47ZELmthcuFlFV+YKxpaUj\nKMbKpPx/X0GVHC0bP921DBd5oCUlB/Bt9TNAs+cCgYEAoS6GQextGD1Ny/oQEaTN\nRk6pbIjcgucNupw+hS/gPsMWt+tjwhsUUD9LviN9ehyUAzlDZ9WOwbV+WxIR50am\nJBbWuUHSh9ZiSnfiowPChPt/0rAVKm1Ha7jVq+kuvagN2gSuWedH/K9CAp5f8Vx6\n9Hr7lRe1wZjyG5S6jLRzVUU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "newsrush@newsrush.iam.gserviceaccount.com",
+  "client_id": "117187644195633524878",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/newsrush%40newsrush.iam.gserviceaccount.com"
+}
